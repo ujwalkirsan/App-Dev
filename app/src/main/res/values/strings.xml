@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TRIVIA</string>
+    <string name="go_back">go back</string>
+    <string name="choose_the">CHOOSE THE</string>
+    <string name="category">CATEGORY</string>
+    <string name="sports">Sports</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="art">Art</string>
+    <string name="start">START</string>
+    <string name="krashna_chakka_hai">Krashna chakka hai ?</string>
+</resources>
